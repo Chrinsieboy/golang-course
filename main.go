@@ -18,8 +18,15 @@ func main() {
 	var email string
 	var userTickets int
 	// ask user for name
+	fmt.Println("Enter your first name: ")
+	fmt.Scan(&firstName)
 
-	userName = "Chris"
-	userTickets = 2
-	fmt.Printf("User %v booked %v tickets\n", userName, userTickets)
+	fmt.Println("Enter your last name: ")
+	fmt.Scan(&lastName)
+
+	fmt.Println("Enter your email address: ")
+	fmt.Scan(&email)
+
+	fmt.Println("Enter number of tickets: ")
+	fmt.Scan(&userTickets)
 }
