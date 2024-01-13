@@ -10,10 +10,10 @@ Thx to [TechWorld with Nana](https://youtu.be/yyUHQIec83I?si=ijjgX14ZZpoGh5W5) f
 :x: not done
 
 :white_check_mark: 0:00     - Intro & Course Overview <br/>
-INTRODUCTION TO GO<br/>
+**INTRODUCTION TO GO**<br/>
 :white_check_mark: 02:47    - What is Go? Why Go? How it's different? <br/>
 :white_check_mark: 06:50    - Characteristics of Go and Go Use Cases <br/>
-GO SYNTAX & CONCEPTS<br/>
+**GO SYNTAX & CONCEPTS**<br/>
 :white_check_mark: 08:59    - Local Setup - Install Go & Editor <br/>
 :white_check_mark: 12:54    - Write our First Program & Structure of a Go File <br/>
 :white_check_mark: 22:02    - Variables & Constants in Go <br/>
