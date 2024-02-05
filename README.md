@@ -21,8 +21,8 @@ Thx to [TechWorld with Nana](https://youtu.be/yyUHQIec83I?si=ijjgX14ZZpoGh5W5) f
 :white_check_mark: 33:43    - Data Types in Go <br/>
 :white_check_mark: 45:18    - Getting User Input <br/>
 :white_check_mark: 47:19    - What is a Pointer? <br/>
-:x: 53:55    - Book Ticket Logic<br/>
-:x: 57:16    - Arrays & Slices<br/>
+:white_check_mark: 53:55    - Book Ticket Logic<br/>
+:white_check_mark: 57:16    - Arrays & Slices<br/>
 :x: 1:11:12 - Loops in Go<br/>
 :x: 1:24:24 - Conditionals (if / else) and Boolean Data Type<br/>
 :x: 1:39:33 - Validate User Input<br/>
