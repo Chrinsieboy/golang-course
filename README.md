@@ -30,7 +30,7 @@ Thx to [TechWorld with Nana](https://youtu.be/yyUHQIec83I?si=ijjgX14ZZpoGh5W5) f
 :white_check_mark: 1:58:37 - Encapsulate Logic with Functions<br/>
 :white_check_mark: 2:22:36 - Organize Code with Go Packages<br/>
 :white_check_mark: 2:35:39 - Scope Rules in Go<br/>
-:x: 2:37:16 - Maps<br/>
+:white_check_mark: 2:37:16 - Maps<br/>
 :x: 2:53:20 - Structs<br/>
 :x: 3:02:15 - Goroutines - Concurrency in Go<br/>
 :x: 3:23:51 - Congratulations!
