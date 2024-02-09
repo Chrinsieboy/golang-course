@@ -27,7 +27,7 @@ Thx to [TechWorld with Nana](https://youtu.be/yyUHQIec83I?si=ijjgX14ZZpoGh5W5) f
 :white_check_mark: 1:24:24 - Conditionals (if / else) and Boolean Data Type<br/>
 :white_check_mark: 1:39:33 - Validate User Input<br/>
 :white_check_mark: 1:54:02 - Switch Statement **(No Code, only example in video)**<br/>
-:x: 1:58:37 - Encapsulate Logic with Functions<br/>
+:white_check_mark: 1:58:37 - Encapsulate Logic with Functions<br/>
 :x: 2:22:36 - Organize Code with Go Packages<br/>
 :x: 2:35:39 - Scope Rules in Go<br/>
 :x: 2:37:16 - Maps<br/>
